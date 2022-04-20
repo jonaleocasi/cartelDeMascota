@@ -1,0 +1,55 @@
+body {
+    background-color:cornsilk;
+}
+
+.Cajaflotante{
+    margin: 40px;
+    background-color: white;
+    border-style: solid;
+    border-color: black;
+    border-radius: 5px;
+    border-top: solid 0px;
+    border-width: 1px;
+    text-align: center;
+}
+
+.cabecera{
+    padding: 10px;
+    border-bottom: solid 1px black;
+}
+
+.contenido{
+    padding: 10px;
+    border-bottom: solid 1px black;
+}
+
+.botones{
+    padding: 10px;
+    border-top: 2px 
+}
+
+.imagenes {
+    margin: 40px;
+    background-color: rgb(121, 41, 94);
+    border-style: solid;
+    border-color: black;
+    border-radius: 5px;
+    border-top: solid 0px;
+    border-width: 1px;
+    text-align: center;
+}
+#instagram{
+    background-color:blue;
+    border: 8px;
+    border-radius: 5px;
+    padding: 5px;
+    color: white;
+}
+
+#tiktok{
+    background-color:rgb(139, 12, 12);
+    border: 8px;
+    border-radius: 5px;
+    padding: 5px;
+    color: white;
+}
